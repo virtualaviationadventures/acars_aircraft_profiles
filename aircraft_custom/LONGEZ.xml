@@ -2,8 +2,6 @@
 <Rules>
   <Rule Simulator="Microsoft Flight" TitleContains="Long-EZ">
     <BeaconLights Ignore="True" />
-  </Rule>
-  <Rule Simulator="Microsoft Flight" TitleContains="Long-EZ">
     <StrobeLights Ignore="True" />
   </Rule>
 </Rules>
