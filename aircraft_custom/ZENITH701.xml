@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Rules>
+  <Rule Simulator="Microsoft Flight" TitleContains="Zenith 701">
+    <BeaconLights Ignore="True" />
+  </Rule>
+</Rules>
